@@ -1,0 +1,38 @@
+{
+  "name": "servidor-xmpp-estatisticas",
+  "version": "0.0.1",
+  "description": "Estatisticas para o servidor xmpp",
+  "keywords": "estatisticas servidor-xmpp",
+  "author": "Léo Felippe <leofelippedias@hotmail.com.br>",
+  "main": "./index.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+   
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "path": "git@github.com:umdez/servidor-xmpp-estatisticas.git"
+    }
+  ],
+  "homepage": "https://github.com/umdez/servidor-xmpp-estatisticas",
+  "bugs": "https://github.com/umdez/servidor-xmpp-estatisticas/issues",
+  "maintainers": [
+    {
+      "name": "umdez",
+      "email": "leofelippedias@hotmail.com.br",
+      "url": "http://meu-dominio.com.br"
+    }
+  ],
+  "contributors": [
+    "Leo Felippe"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "bin": "./index.js"
+}
